@@ -11,5 +11,5 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/Mimi522/Fast-Solo-Dungeons/master/"]
+    "servers": ["https://raw.githubusercontent.com/Mimi522/Fast-Solo-Dungeons-remaster/master/"]
 }
